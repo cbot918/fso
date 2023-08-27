@@ -1,0 +1,20 @@
+{
+  "planetName":"http",
+  "planetSize":7,
+  "rooms":[
+    {
+      "rid":"h0",
+      "title":"機場",
+      "describe":"這是http星球的機場",
+      "ways":[
+        {"s":"h1"}
+      ],
+      "mobs":[
+        {
+          "mid":"traveller",
+          "name":"旅人"
+        }
+      ]
+    }
+  ]
+}
