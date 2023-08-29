@@ -25,3 +25,6 @@ coin買消耗品, point十連抽
 解迷系統：
   - 主角轉職(一轉一個技能, 二轉兩個技能, 技能自己選)
   - 主角稱號(加生命, 加攻擊)
+
+rank:
+newbie -> entry -> junior -> senior -> staff -> principle -> lead
